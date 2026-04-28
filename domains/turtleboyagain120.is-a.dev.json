@@ -1,0 +1,12 @@
+{
+  "description": "Professional developer portfolio and academic research sandbox for solo empire projects.",
+  "domain": "is-a.dev",
+  "subdomain": "turtleboyagain120",
+  "owner": {
+    "email": "turtleboyslowdown@gmail.com"
+  },
+  "record": {
+    "CNAME": "turtleboyagain120.github.io"
+  },
+  "proxied": false
+}
